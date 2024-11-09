@@ -13,6 +13,8 @@
 
 Langkah-langkah untuk mengonlinekan website melalui GitHub Pages adalah sebagai berikut:
 
+https://github.com/user-attachments/assets/41407440-a659-49bf-990a-3e5f56b66ba8
+
 ## 1. Buat Repository di GitHub
    - Buka akun GitHub kamu, lalu buat repository baru. Pastikan namanya sesuai dengan keinginanmu, atau jika kamu ingin membuatnya sebagai situs utama, gunakan format: `username.github.io` (gantilah "username" dengan username GitHub kamu).
    - Pilih opsi "Public" agar situs bisa diakses semua orang.
