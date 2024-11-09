@@ -36,3 +36,6 @@ https://github.com/user-attachments/assets/41407440-a659-49bf-990a-3e5f56b66ba8
    - Setiap kali kamu mengubah atau menambahkan file di repository, GitHub Pages akan otomatis memperbarui website setelah perubahan di-commit dan di-push ke repository.
 
 Selamat! Sekarang website kamu sudah online dan dapat diakses secara publik melalui GitHub Pages.
+
+# ThankYou:
+![My Cat](https://myoctocat.com/assets/images/base-octocat.svg)
